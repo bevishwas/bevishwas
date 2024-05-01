@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bevishwas
-- 👀 I'm a Freelancer.
-- 🌱 I’m currently learning AI.
+- 👀 I'm a React Native Developer.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me --> vishwasvaishnav22@gmail.com
 
 <!---
